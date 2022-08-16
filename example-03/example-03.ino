@@ -9,7 +9,7 @@
 
 #define FIRMWARE_VERSION "v0.0.2"
 
-const String default_ssid = "usar";
+const String default_ssid = "user";
 const String default_wifipassword = "password";
 const String default_httpuser = "admin";
 const String default_httppassword = "admin";
